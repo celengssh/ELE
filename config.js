@@ -75,7 +75,7 @@ global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user
 
 
 global.lolkey = '4e2e2a1fdaac541c554a22c0'
-global.xkey = 'APIKEYMU'
+global.xkey = 'NezukoTachibana281207'
 /*============== API ==============*/
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -90,11 +90,11 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEYMU',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'Apikeymu',
+  'https://api.lolhuman.xyz': '4e2e2a1fdaac541c554a22c0',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://violetics.pw': 'beta'
+  'https://violetics.pw': 'b152-064e-0f17'
 }
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
